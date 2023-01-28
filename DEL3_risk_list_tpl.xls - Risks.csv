@@ -1,0 +1,24 @@
+LinkedHU_CENG Risk List,,,,,,,,,
+Risk ID,Date Identified,Headline,Description,Type,Impact,Probability,Magnitude,Owner,Mitigation Strategy
+1,3/4/2022,Competition in the market,"Before our system is finished, launching of a rival product",I,3,40%,"1,2",Software Analyst,Examine similar products and add new features to your own.
+2,3/4/2022,Change in requirements,The number of adjustments to the criteria will be more than expected.,I,2,70%,"1,4","Configuration And Change Manager
+","Overheads may be avoided with good configuration and change management. With outsourcing, a large amount of material will be sent."
+3,3/4/2022,Dissatisfaction of customers(users),Our app isn't used by many people.,I,5,10%,"0,5",Software Analyst,Make a solid marketing plan and reach out to potential customers.
+4,3/4/2022,Miscalculation in development time,The amount of time it takes to build software is underestimated.,I,4,10%,"0,4","Software Manager
+",Increasing the realism of time estimates and engaging with other stakeholders
+5,3/4/2022,Information security risks,Vulnerabilities in personal information security,D,5,20%,"1,0","Software Tester
+",Always have a backup in case of a ransomware attack. Personal information will be saved in an encrypted format.
+6,3/4/2022,Insufficiency of the database,The system's database can't handle as many transactions per second as it should.,D,2,25%,"0,5",Software Architect,Examine the idea of purchasing a more powerful database.
+7,3/4/2022,Bug fix," Bugs are an error, flaw, or fault that can happen in an application",D,2,80%,"1,6","Software Tester
+", Always go controlled by constantly testing the software. 
+8,3/4/2022,Database crashes,Database can go down,D,4,15%,"0,6","Configuration And Change Manager
+",Use more reliable and conceivable databases.
+9,3/4/2022,Server connections errors,Problems can arise in the connection between the app and the server.,D,3,20%,"0,6","Software Tester/
+Software Developer",Regularly run tests in order to check the communication between server and app.
+10,3/4/2022,Underestimated user count,"Number of users of the app can be more than estimated, which can create need of changes in app",I,1,10%,"0,1",Software Analyst,"If the number of users on our web app exceeds expectations, improve code efficiency for better performance or switch databases for faster transactions; otherwise, expand the web app's server."
+11,3/4/2022,Application crashes,App can go down in some cases,D,4,30%,"1,2",Software Tester,"Check tool condition on a regular basis, identify alternative tools, and, if we lose interest in a tool, get rid of it and replace it with a new alternative."
+12,3/4/2022,Boot up failures,The app cannot boot,D,3,10%,"0,3",Software Developer,Make certain you execute all of the boot-up checks. Always double-check the compatibility of your operating system and version.
+13,3/4/2022,Integration Tools,Tools of software cannot work together in harmony,D,2,50%,"1,0","Configuration And Change Manager
+","If at all possible, employ an integration tool. If not, go to a different tool and try to incorporate components from the previous one."
+14,3/4/2022,Leaving of a stakeholder,"A stakeholder might leave the project,which results problems in job sharing",I,1,10%,"0,1",Project Manager,Determine stakeholder requirements and allocate old stakeholder's work to other eligible stakeholders until a new experienced stakeholder can be found; all works must be intelligible and recorded so that other people can comprehend them.
+15,3/4/2022,Temporary unavailability of stakeholders,"Sometimes stakeholders can get sick, or they can be busy",I,1,40%,"0,4",Project Manager,"Instead of relying on a single person to handle everything, everyone should be replaceable."
